@@ -2,7 +2,7 @@
 title Ultimate Performance Activator
 echo. 	:=======================================================:
 echo.
-echo.	    Windows 7 / 8 / 10 Ultimate performace Activator
+echo.	        Windows 10 Ultimate performace Activator
 echo.
 echo. 	:=======================================================:
 choice /C:12 /N /M ".                  Press 1 for exit and 2 for start."
